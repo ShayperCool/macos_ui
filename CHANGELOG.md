@@ -1,3 +1,6 @@
+## [2.1.2]
+* Fixed ignore of `shownByDefault` on left sidebar
+
 ## [2.1.1]
 * Fixed a bug where `MacosPulldownMenuItem` would not show an alert dialog when tapped.
 
