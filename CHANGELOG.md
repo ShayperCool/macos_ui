@@ -1,5 +1,6 @@
 ## [2.1.8]
-* Fixed ignore of `shownByDefault` on left sidebar
+### 🛠️ Fixed 🛠️
+* Fixed `shownByDefault` not being respected for the left sidebar of the `MacosWindow` (thanks, [@ShayperCool](https://github.com/ShayperCool)).
 
 ## [2.1.7]
 ### 🔄 Updated 🔄
